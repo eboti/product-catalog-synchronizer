@@ -1,0 +1,12 @@
+id	title	description	availability	condition	price	sale_price	link	brand	image_link	age_group	google_product_category
+0000000000000	"Invalid condition field"	" Description"	"in_stock"	not-used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000001	"Missing condition field"	" Description"	"in_stock"		"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000002	"Invalid currency field (CHF)"	" Description"	"in_stock"	used	"1390 CHF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000003	"Missing currency"	" Description"	"in_stock"	used	"1390 "	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000004	"Missing price field"	" Description"	"in_stock"	used		"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000005	"Missing brand field"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid		https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000006	"Too long brand field"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	    Tooolooongggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000007777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777	"Too long id field"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000008	"Invalid link"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	invalid-protocol://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+0000000000009	"Invalid image_link"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	invalid-protocol://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
+	"Missing id field"	" Description"	"in_stock"	used	"1390 HUF"	"1390 HUF"	https://dibook.hu/konyv/book-is-invalid	Móra	https://dibook.hu/storage/books/pr_6/cover-big.webp	kids	543542
